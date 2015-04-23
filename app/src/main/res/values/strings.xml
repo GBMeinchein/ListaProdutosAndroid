@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consulta de Produtos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sistemas e Cia - Login</string>
+    <string name="title_activity_lista">Sistemas e Cia - Lista de produtos</string>
+    <string name="title_activity_main">Sistemas e Cia - Lista de produtos</string>
+</resources>
